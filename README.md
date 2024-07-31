@@ -2,11 +2,11 @@
 <html lang="en" dir="ltr">
   <h1 align=center> Hi, I'm Mike Bilbee 👾</h1>
 
-  <ul>
-    <li>📚 I'm currently studying Full Stack Web Development at <a href="https://www.atlasschool.com/">Atlas School</a>. 📚</li>
-    <li>🎮 I love Game, Art, and Web Design 🎮</li>
-    <li>🐹 My friends and I made a game called <a href="https://breakfasthub.itch.io/breakfast-break">Breakfast Break</a>! 🐹</li>
-  </ul>
+  
+  <p>📚 I'm currently studying Full Stack Web Development at <a href="https://www.atlasschool.com/">Atlas School</a>. I hope to take what I've learned and apply it to my own business. On the way there I hope to find jobs in the Game or Software Development industries.</p>
+  <p>🎮 I love Game, Art, and Web Design. Art is what makes us human and I love getting to participate in and facilitate it in any way I can.</p>
+  <p>🐹 My friends and I made a game called <a href="https://breakfasthub.itch.io/breakfast-break">Breakfast Break</a>! It is a short Tile Match game where you try to hit the point goal and see your hamsters dance. But be careful! If time runs out or you use all your moves, you'll make your hamsters cry</p>
+ 
 
   <div align=center>
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
