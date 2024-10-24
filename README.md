@@ -23,4 +23,8 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
     <a href="https://www.linkedin.com/in/ben-harper-webdev/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>&nbsp;</a>
   </div>
+
+  <div>
+    [![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=MikeBilbee&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+  </div>
 </html>
